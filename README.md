@@ -1,5 +1,5 @@
 <h1 align="center">ʜɪ 🙋‍♂️, ɪ'ᴍ <b>𝙰𝙳𝙸𝚃𝚈𝙰 𝙺𝚄𝙼𝙰𝚁</b></h1>
-<h3 align="center">ᴀ ᴘᴀssɪɴᴀᴛᴇ ғʀᴏɴᴛᴇᴅ ᴅᴇᴠʟᴏᴘᴇʀ ғʀᴏᴍ ᴊʜᴀʀᴋʜᴀɴᴅ</h3>
+<h3 align="center">ᴀ ᴘᴀssɪɴᴀᴛᴇ ғʀᴏɴᴛᴇɴᴅ ᴅᴇᴠʟᴏᴘᴇʀ ғʀᴏᴍ ᴊʜᴀʀᴋʜᴀɴᴅ</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
